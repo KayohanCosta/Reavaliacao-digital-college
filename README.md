@@ -11,8 +11,8 @@ Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React
 - [JavaScript Info](https://javascript.info/)[☑️]  
 - [The Odin Project](https://www.theodinproject.com)[☑️]  
 - [Full Stack Open](https://fullstackopen.com)[☑️]  
-- [freeCodeCamp](https://www.freecodecamp.org)[☑️]  
-- [biblioteca Rocketseat](https://biblioteca.rocketseat.com.br/)[🔽] 
+- [FreeCodeCamp](https://www.freecodecamp.org)[☑️]  
+- [Biblioteca Rocketseat](https://biblioteca.rocketseat.com.br/)[🔽] 
 - [Rocketseat fr**](rocketseat.com.br/teste-gratuitamente/parceiros/frontend-day)[🥇]
 ---
 
