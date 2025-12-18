@@ -6,13 +6,14 @@ Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React
 
 ## Referências e cursos recomendados
 
-- [MDN Web Docs](https://developer.mozilla.org/pt-BR/)[web:7]  
-- [W3Schools](https://www.w3schools.com/)[web:24]  
-- [JavaScript Info](https://javascript.info/)[web:13]  
-- [The Odin Project](https://www.theodinproject.com)[web:20]  
-- [Full Stack Open](https://fullstackopen.com)[web:21]  
-- [freeCodeCamp](https://www.freecodecamp.org)[web:22]  
-- [biblioteca Rocketseat](https://biblioteca.rocketseat.com.br/)[web:24] 
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/)[🥇]  
+- [W3Schools](https://www.w3schools.com/)[🥇]  
+- [JavaScript Info](https://javascript.info/)[☑️]  
+- [The Odin Project](https://www.theodinproject.com)[☑️]  
+- [Full Stack Open](https://fullstackopen.com)[☑️]  
+- [freeCodeCamp](https://www.freecodecamp.org)[☑️]  
+- [biblioteca Rocketseat](https://biblioteca.rocketseat.com.br/)[🔽] 
+- [](rocketseat.com.br/teste-gratuitamente/parceiros/frontend-day)[🥇]
 ---
 
 ## Lógica com JavaScript
