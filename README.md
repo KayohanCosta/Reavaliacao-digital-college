@@ -12,7 +12,7 @@ Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React
 - [The Odin Project](https://www.theodinproject.com)[web:20]  
 - [Full Stack Open](https://fullstackopen.com)[web:21]  
 - [freeCodeCamp](https://www.freecodecamp.org)[web:22]  
-
+- [biblioteca Rocketseat](https://biblioteca.rocketseat.com.br/)[web:24] 
 ---
 
 ## Lógica com JavaScript
