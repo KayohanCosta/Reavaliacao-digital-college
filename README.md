@@ -1,51 +1,129 @@
-# Reavalia-o-digital-college
+# Trilha de Estudos Front-end
 
-Mapa de reavaliação Digital College 
+Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React, Node, Banco de Dados, CLI, Web e Git/GitHub.
 
 ---
 
-### CLI 
+## Lógica com JavaScript
 
-* BASH
-* COMANDOS BASH 
+- **Tipos de dados**
+  - `string`, `number`, `boolean`, `null`, `undefined`
+  - `array`, objeto (object literal)
 
-### WEB
- 
-* FUNCIONAMENTO DA WEB 
-* SEO
-* VERBOS HTTP
+- **Operadores**
+  - Lógicos: `&&`, `||`, `!`
+  - Aritméticos: `+`, `-`, `*`, `/`, `%`
+  - Comparação: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`
+  - Atribuição: `=`, `+=`, `-=`, `*=`, `/=`
 
-### HTML
- 
-* TAGS E ATRIBUTOS 
-* SEMANTICAS E ACESSIBILIDADE
+- **Variáveis**
+  - `var` x `let` x `const`
+  - Escopo
+  - Hoisting
 
+- **Estruturas de controle de fluxo**
+  - Condicionais
+    - `if`, `else`, `else if`, `switch case`
+  - Loops
+    - `for`, `while`, `for in`, `for of`
 
-### CSS 
+- **Funções**
+  - Funções declaradas
+  - Funções *arrow* (`() => {}`)
 
-* SELETORES / PROPRIEDADES
-  ### CORES
-  RGB/HSL/EXADECIMAIS
+---
 
-  ### BOX MODEL
-  INLINE, BLOCK, INLINE BLOCK  
+## HTML
 
-* FLEXBOX 
-* GIRD LAYOUT 
-* RESOINSIVIDADE 
-  ### MEDIA QUERIES
+- Tags e atributos
+- Semântica
+- Acessibilidade
 
-### GIT, GITHUB
-* GIT X GITHUB
-  ### COMANDOS 
-    INIT, ADO, COMMIT, PUSH
-    CONFIG, LOG, BRANCH, CHECKOUT,
-    MERGE, PULL
+---
 
-### LOGICA COM JAVASCRIPT 
-  * TIPOS DE DADOS
-  * STRING, NUMBER, BOOLEAN, NULL, UNDEFINED, ARRAY, OBJECT LITERAL
+## CSS
 
-  ### OPERADORES 
-  LOCIGOS, ARITIMEDICOS, COMPARAÇÃO, 
-  ATRIBUIÇÃO 
+- Seletores e propriedades
+- Cores
+  - `rgb`, `hsl`, hexadecimal
+- Box Model
+  - `display: inline`, `block`, `inline-block`
+- Flexbox
+- Grid layout
+- Responsividade
+  - *Media queries*
+
+---
+
+## JavaScript no Navegador
+
+- DOM e BOM
+- Eventos
+- Métodos de array:
+  - `forEach`, `map`, `filter`, `reduce`, `every`
+  - `spread` (`...`), `rest` (`...args`)
+
+---
+
+## Node.js
+
+- Módulos internos
+- Importação (`require` / `import`)
+- `npm` (instalação e gerenciamento de pacotes)
+
+---
+
+## React
+
+- SPA (Single Page Application)
+- JSX
+- Componentes
+- Props
+- Hooks
+  - `useState`
+  - `useEffect`
+- Rotas
+  - `react-router-dom`
+
+---
+
+## Banco de Dados
+
+- Dados x Informação
+- SQLite
+  - Tipos de dados
+- Consultas SQL
+  - DDL, DML, DQL, DTL, DCL
+
+---
+
+## CLI
+
+- Bash
+- Comandos básicos do Bash
+
+---
+
+## Web
+
+- Funcionamento da Web
+- SEO
+- Verbos HTTP (`GET`, `POST`, `PUT`, `DELETE`, etc.)
+
+---
+
+## Git e GitHub
+
+- Diferença entre Git e GitHub
+- Comandos principais:
+  - `git init`
+  - `git add`
+  - `git commit`
+  - `git push`
+  - `git config`
+  - `git log`
+  - `git clone`
+  - `git branch`
+  - `git checkout`
+  - `git merge`
+  - `git pull`
