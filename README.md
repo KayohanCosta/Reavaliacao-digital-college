@@ -13,7 +13,7 @@ Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React
 - [Full Stack Open](https://fullstackopen.com)[☑️]  
 - [freeCodeCamp](https://www.freecodecamp.org)[☑️]  
 - [biblioteca Rocketseat](https://biblioteca.rocketseat.com.br/)[🔽] 
-- [](rocketseat.com.br/teste-gratuitamente/parceiros/frontend-day)[🥇]
+- [Rocketseat fr**](rocketseat.com.br/teste-gratuitamente/parceiros/frontend-day)[🥇]
 ---
 
 ## Lógica com JavaScript
