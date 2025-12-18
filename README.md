@@ -57,7 +57,7 @@ Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React
 
 - Seletores e propriedades
 - Cores
-  - `rgb`, `hsl`, hexadecimal
+  - `rgb`, `hsl`, `hexadecimal`
 - Box Model
   - `display: inline`, `block`, `inline-block`
 - Flexbox
