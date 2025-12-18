@@ -4,6 +4,17 @@ Anotações organizadas em tópicos para estudos de HTML, CSS, JavaScript, React
 
 ---
 
+## Referências e cursos recomendados
+
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/)[web:7]  
+- [W3Schools](https://www.w3schools.com/)[web:24]  
+- [JavaScript Info](https://javascript.info/)[web:13]  
+- [The Odin Project](https://www.theodinproject.com)[web:20]  
+- [Full Stack Open](https://fullstackopen.com)[web:21]  
+- [freeCodeCamp](https://www.freecodecamp.org)[web:22]  
+
+---
+
 ## Lógica com JavaScript
 
 - **Tipos de dados**
